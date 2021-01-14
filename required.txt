@@ -1,0 +1,16 @@
+
+Game Overview
+Players have to reach goal/finish tasks/find something
+Player to finish first wins
+Imposters are there in this Game
+They need to kill more than half of no. of players.
+If they succeed, then they/it wins.
+
+Obstacles,
+Biting thing
+Swallow
+
+
+Upgrades
+Weapons
+Speed
